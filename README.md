@@ -36,7 +36,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/jaedevgithub/singlePageWebsitePortfolio)
+- Solution URL: [Github](https://github.com/jaedevgithub/skilledElearningLandingPage)
 
 - Live Site URL: [Github Pages](https://jaedevgithub.github.io/singlePageWebsitePortfolio/)
 
